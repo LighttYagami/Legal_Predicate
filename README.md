@@ -24,5 +24,4 @@ python -m spacy download en_core_web_trf
   → generates gpt_triples_checkpoint.json
 
 ### 3. Run
-Open maybe.ipynb and run all cells
 Open and run pred.ipynb
